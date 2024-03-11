@@ -18,3 +18,17 @@ jobs:
         with:
           name: dist
           path: dist
+      - name: Check out output branch
+        run: |
+          git fetch
+          git checkout output
+          git pull
+      - name: Copy SVG to output branch
+        run: cp dist/github-contribution-grid-snake.svg .
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add github-contribution-grid-snake.svg
+          git commit -m "Update GitHub contribution grid snake animation"
+          git push
