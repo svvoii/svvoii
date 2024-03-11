@@ -27,6 +27,8 @@ jobs:
           git pull
       - name: Copy SVG to output branch
         run: cp dist/github-contribution-grid-snake.svg .
+      - name: List contents of root directory
+        run: ls -l
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
