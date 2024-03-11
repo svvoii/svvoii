@@ -56,18 +56,16 @@
 	<a href="https://skillicons.dev">
 		<img src="https://skillicons.dev/icons?i=github,c,cpp,python,docker,mysql,vim,vscode,linux" />
 		</br>
-
 	</a>
 </div>
 
 </br>
 <hr/>
 
-<!-- Contributions -->
 <div align="center">
 	<h2>🐍 My contributions 🐍</h2>
 	</br>
-	<img alt="snake eating my contributions" src+="https://raw.githubusercontent.com/svvoii/svvoii/output/github-contribution-grid-snake.svg" />
+	<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/svvoii/svvoii/output/github-contribution-grid-snake.svg" />
 	</br>
 	</br>
 	</br>
