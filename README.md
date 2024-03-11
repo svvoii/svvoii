@@ -1,7 +1,11 @@
-<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=svvoii.svvoii" />
+</br>
+
+<p align="right">
+	<img src="https://hits.dwyl.com/svvoii/svvoii.svg" alt="hits count" />
+</p>
 
 <h1 align="center">
-	<img src="https://readme-typing-svg.herokuapp.com/? font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+!+👋;+I+am+Sergiu;" />
+	<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+!+👋;+I+am+Sergiu;" />
 </h1>
 
 <h3 align="center">I am a Software Developer passionate about DATA and AI !</h3>
@@ -51,7 +55,6 @@
 
 <h2 align="center">Skills</h2>
 
-<!-- Skills: C, C++, Docker, SQL, Python, GitHub -->
 <div align="center">
 	<a href="https://skillicons.dev">
 		<img src="https://skillicons.dev/icons?i=github,c,cpp,python,docker,mysql,vim,vscode,linux" />
