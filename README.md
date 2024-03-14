@@ -65,14 +65,14 @@
 </br>
 <hr/>
 
-<!-- <div align="center">
+<div align="center">
 	<h2>🐍 My contributions 🐍</h2>
 	</br>
 	<img alt="contribution snake gif" src="https://github.com/svvoii/svvoii/blob/output/github-contribution-grid-snake.gif" />
 	</br>
 	</br>
 	</br>
-</div> -->
+</div>
 
 
 <div align="center">
