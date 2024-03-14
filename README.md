@@ -74,3 +74,8 @@
 	</br>
 </div>
 
+
+<div align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svvoii&count_private=true&show_icons=true)
+</div>
+
