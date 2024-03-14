@@ -14,13 +14,13 @@
 
 <div align="center">
 
-🌱 I’m currently learning about **this** and **that**
+🌱 At present, I am expanding my skills by learning the ***Django*** framework and understanding how to implement a ***Chatbot*** on a website.
 
-👯 I’m looking to collaborate on **open source projects** regarding **this cool technology**
+<!-- 👯 I’m looking to collaborate on **open source projects** regarding **this cool technology** -->
 
-🤔 I’m looking for help with **this thing**
+🤔 I am seeking opportunities to make contributions in the fields of ***Data*** and ***Artificial Intelligence***.
 
-💬 You can ask me questions about **`this`**, **`this`** also **`this`** and **`that`** right **[here](https://github.com/svvoii/svvoii/issues)**
+<!-- 💬 You can ask me questions about **`this`**, **`this`** also **`this`** and **`that`** right **[here](https://github.com/svvoii/svvoii/issues)** -->
 
 </div>
 
@@ -65,17 +65,17 @@
 </br>
 <hr/>
 
-<div align="center">
+<!-- <div align="center">
 	<h2>🐍 My contributions 🐍</h2>
 	</br>
 	<img alt="contribution snake gif" src="https://github.com/svvoii/svvoii/blob/output/github-contribution-grid-snake.gif" />
 	</br>
 	</br>
 	</br>
-</div>
+</div> -->
 
 
 <div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svvoii&count_private=true&show_icons=true)
+	<img src="https://github-readme-stats.vercel.app/api?username=svvoii&count_private=true&show_icons=true" alt="My github stats">
 </div>
 
