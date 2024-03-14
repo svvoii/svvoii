@@ -5,7 +5,7 @@
 </p>
 
 <h1 align="center">
-	<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+!+👋;+I+am+Sergiu;" />
+	<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi++👋;+This+is+Serge;+😊" />
 </h1>
 
 <h3 align="center">I am a Software Developer passionate about DATA and AI !</h3>
@@ -66,16 +66,46 @@
 <hr/>
 
 <div align="center">
-	<h2>🐍 My contributions 🐍</h2>
-	</br>
+	<h2>🐍 github activity 🐍</h2>
 	<img alt="contribution snake gif" src="https://raw.githubusercontent.com/svvoii/svvoii/output/github-contribution-grid-snake.svg" />
 	</br>
-	</br>
-	</br>
 </div>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<!-- <div align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=svvoii&count_private=true&show_icons=true&theme=dark" alt="My github stats">
+</div> -->
 
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=svvoii&count_private=true&show_icons=true" alt="My github stats">
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=svvoii)](https://git.io/streak-stats) -->
+
+<div align=center>
+	<br/>
+	<img width=390 src="https://github-readme-stats.vercel.app/api?username=svvoii&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10" alt="readme stats" />
+	<br/>
+	<br/>
+	<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svvoii&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+	<br/>
+	<br/>
+	<img width=390 src="https://streak-stats.demolab.com/?user=svvoii&theme=dark" alt="GitHub Streak">
 </div>
 
+<br/>
+<hr/>
+
+<h1 align="center">
+	<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+stopping+by++😉;" />
+</h1>
+
+<!--
+😃 Grinning Face with Big Eyes
+😄 Grinning Face with Smiling Eyes
+😁 Beaming Face with Smiling Eyes
+😆 Grinning Squinting Face
+😅 Grinning Face with Sweat
+😂 Face with Tears of Joy
+🙂 Slightly Smiling Face
+🙃 Upside-Down Face
+😉 Winking Face
+😊 Smiling Face with Smiling Eyes
+😇 Smiling Face with Halo
+-->
