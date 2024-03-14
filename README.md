@@ -68,7 +68,7 @@
 <div align="center">
 	<h2>🐍 My contributions 🐍</h2>
 	</br>
-	<img alt="contribution snake gif" src="https://github.com/svvoii/svvoii/blob/output/github-contribution-grid-snake.gif" />
+	<img alt="contribution snake gif" src="https://raw.githubusercontent.com/svvoii/svvoii/output/github-contribution-grid-snake.svg" />
 	</br>
 	</br>
 	</br>
