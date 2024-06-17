@@ -14,11 +14,13 @@
 
 <div align="center">
 
-🌱 At present, I am expanding my skills by learning the ***Django*** framework and understanding how to implement a ***Chatbot*** on a website.
+🌱 At present, I am expanding my skills by learning the ***Django*** framework as a part of Common Core curriculum at [42 Paris](https://42.fr/en/homepage/).      
+In particular, I am working on custom user management model, password reset, profile page, etc. More info [here](https://github.com/svvoii/custom_user_model).  
 
 <!-- 👯 I’m looking to collaborate on **open source projects** regarding **this cool technology** -->
 
-🤔 I am seeking opportunities to make contributions in the fields of ***Data*** and ***Artificial Intelligence***.
+🤔 I am seeking opportunities to make contributions in the fields of ***Data*** and ***Artificial Intelligence***.  
+Check my last data project in [this repo](https://github.com/svvoii/evs-charging-france-dashboard), the dashboard can be accessed [here](https://ev-plug-in-france.streamlit.app/).  
 
 <!-- 💬 You can ask me questions about **`this`**, **`this`** also **`this`** and **`that`** right **[here](https://github.com/svvoii/svvoii/issues)** -->
 
@@ -26,27 +28,19 @@
 
 <div align="center">
 
-<a href="mailto:sbocanci@student.42.fr">
-	<img src="https://img.shields.io/badge/-Email-008000?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 <a href="https://www.linkedin.com/in/bocancia/">
 	<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="">
+<a href="mailto:sbocanci@student.42.fr">
+	<img src="https://img.shields.io/badge/-Email-008000?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://twitter.com/svvoii">
 	<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
-<a href="">
-	<img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="">
-	<img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />	
-</a>
-<a href="">
-	<img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-<a href="">
-	<img src="https://img.shields.io/badge/-Website-FFAA00?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
+<!-- <a href=""> <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> -->
+<!-- <a href=""> <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />	</a> -->
+<!-- <a href=""> <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> </a> -->
+<!-- <a href=""> <img src="https://img.shields.io/badge/-Website-FFAA00?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> -->
 
 </div>
 
