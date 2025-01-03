@@ -5,22 +5,26 @@
 </p>
 
 <h1 align="center">
-	<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi++👋;+This+is+Serge;+😊" />
+	<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi++👋;+This+is+Serge;+👨🏻‍💻" />
 </h1>
 
-<h3 align="center">I am a Software Developer passionate about DATA and AI !</h3>
+<h3 align="center">
+<p>I am a Data Scientist and a Software Developer<br>passionate about Data, AI and Machine Learning !</p>
+</h3>
 
 </br>
 
 <div align="center">
+Please refer to the final and most extensive team project of the Common Core curriculum at [42 Paris](https://42.fr/en/homepage/) for further information. This project is available in the repository [ft_transcendence](https://github.com/svvoii/ft_transcendence).
 
-🌱 At present, I am expanding my skills by learning the ***Django*** framework as a part of Common Core curriculum at [42 Paris](https://42.fr/en/homepage/).      
-In particular, I am working on custom user management model, password reset, profile page, etc. More info [here](https://github.com/svvoii/custom_user_model).  
+The project is a web-based platform for playing the game of Pong. It is a full-stack project with a backend in Django and a frontend in pure JavaScript.
 
-<!-- 👯 I’m looking to collaborate on **open source projects** regarding **this cool technology** -->
+The project is deployed on a self-hosted server and can be accessed at [here](https://sbocanci.me/).
 
-🤔 I am seeking opportunities to make contributions in the fields of ***Data*** and ***Artificial Intelligence***.  
-Check my last data project in [this repo](https://github.com/svvoii/evs-charging-france-dashboard), the dashboard can be accessed [here](https://ev-plug-in-france.streamlit.app/).  
+Additionally, please review my last data project in the repository [this repo](https://github.com/svvoii/evs-charging-france-dashboard). The dashboard can be accessed at [here](https://ev-plug-in-france.streamlit.app/).
+
+🌱 Currently, I am seeking my first professional experience as a Data Scientist.  
+
 
 <!-- 💬 You can ask me questions about **`this`**, **`this`** also **`this`** and **`that`** right **[here](https://github.com/svvoii/svvoii/issues)** -->
 
@@ -40,7 +44,9 @@ Check my last data project in [this repo](https://github.com/svvoii/evs-charging
 <!-- <a href=""> <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> </a> -->
 <!-- <a href=""> <img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />	</a> -->
 <!-- <a href=""> <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /> </a> -->
-<!-- <a href=""> <img src="https://img.shields.io/badge/-Website-FFAA00?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> -->
+<a href="https://sbocanci.me/">
+	<img src="https://img.shields.io/badge/-Website-FFAA00?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
 
 </div>
 
