@@ -9,21 +9,20 @@
 </h1>
 
 <h3 align="center">
-<p>I am a Data Scientist and a Software Developer<br>passionate about Data, AI and Machine Learning !</p>
+<p>I am a Software Developer<br/>
+passionate about Data, AI and Machine Learning !</p>
 </h3>
 
 </br>
 
 <div align="center">
-Please refer to the final and most extensive team project of the Common Core curriculum at [42 Paris](https://42.fr/en/homepage/) for further information. This project is available in the repository [ft_transcendence](https://github.com/svvoii/ft_transcendence).
 
-The project is a web-based platform for playing the game of Pong. It is a full-stack project with a backend in Django and a frontend in pure JavaScript.
+🌱 I am currently building my personal website [sbocanci.me](https://sbocanci.me/) and actively looking for my first professional opportunity as <br/> **AI Developer**, **Data Scientist** or **Data Engineer**.
 
-The project is deployed on a self-hosted server and can be accessed at [here](https://sbocanci.me/).
+Check my latest data project in the repository [this repository](https://github.com/svvoii/evs-charging-france-dashboard). The interactive dashboard is available [here](https://ev-plug-in-france.streamlit.app/) - it might be sleeping, but you can wake it up !  
 
-Additionally, please review my last data project in the repository [this repo](https://github.com/svvoii/evs-charging-france-dashboard). The dashboard can be accessed at [here](https://ev-plug-in-france.streamlit.app/).
-
-🌱 Currently, I am seeking my first professional experience as a Data Scientist.  
+You can also explore the source code of the final and most extensive team project of the Common Core curriculum at
+[42 Paris](https://42.fr/en/homepage/) in this repository [ft_transcendence](https://github.com/svvoii/Online-PONG).  
 
 
 <!-- 💬 You can ask me questions about **`this`**, **`this`** also **`this`** and **`that`** right **[here](https://github.com/svvoii/svvoii/issues)** -->
