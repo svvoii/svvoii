@@ -38,11 +38,16 @@ Data, AI and Machine Learning !</p>
 🌱 I am currently building my personal website [sbocanci.me](https://sbocanci.me/) and actively seeking my first professional opportunity as an  
 **AI Developer**, **Python Developer**, **Machine Learning Engineer**, **AI Consultant**.  
 
+I’m currently seeking opportunities for either an alternance (work-study) or an internship (stage) contract. I’m particularly interested in roles that allow me to build on my experience as a software developer while transitioning into the development of intelligent applications and end-to-end AI solutions.
+
+I’m eager to contribute to infrastructure design, scalable system architecture, and testing for reliability and performance. I’m open to flexible formats that align with your company’s needs and project goals.
+
+<!-- 
 I’m ideally looking for a 16-month alternance (work-study) contract starting from September 2025, with a 3-week workweek on company premises and a 1-week study week. Here’s a link to the [calendar with the schedule](https://drive.google.com/file/d/1fG68i80jMIyG9XO6vIJQ5qp2ydH6y2HK/view?usp=sharing).
 
 This opportunity will allow me to capitalize on my experience as a software developer and complete the transition to developing intelligent applications and end-to-end AI solutions.  
 
-I'm studying with SIMPLON and Microsoft AI School, earning the title of `Developer in Artificial Intelligence` (RNCP 37827). </br>
+I'm studying with SIMPLON and Microsoft AI School, earning the title of `Developer in Artificial Intelligence` [RNCP 37827](https://www.francecompetences.fr/recherche/rncp/37827/). </br>
 Additionally, I’ll obtain these Microsoft certificates: [AZ-900](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification), [AI-900](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification), [AI-102](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/?practice-assessment-type=certification).
 
 ### Here’s the stack I master :
@@ -53,6 +58,8 @@ Additionally, I’ll obtain these Microsoft certificates: [AZ-900](https://learn
 | DATABASE / BIG DATA    | SQL (MySQL, SQL Server), NoSQL, Azure, IoT Edge, Hadoop Ecosystem (HDFS, MapReduce, etc.), Hive, Cassandra, PySpark, Databricks |
 | PLATFORMS              | Azure Cognitive Services, Azure Bot Service, Azure Machine Learning Studio, Azure Machine Learning Service, Azure Virtual Machines |
 
+ -->
+
 ---
 
 <br/>
@@ -61,6 +68,7 @@ Additionally, I’ll obtain these Microsoft certificates: [AZ-900](https://learn
 
 | REPO               | SKILLSET             | DETAILS                                     |
 |--------------------|----------------------|---------------------------------------------|
+| [RAG-cross-LLM-docbot](https://github.com/svvoii/RAG-cross-LLM-docbot) | Python, RAG, LangChain, OpenAI API, LLMs, FAISS | A document chatbot leveraging RAG and LLMs to provide answers from PDF documents. |
 | [Charging stations in France](https://github.com/svvoii/evs-charging-france-dashboard) | Python, Pandas, Streamlit, Folium, Plotly, Docker. | An interactive Streamlit dashboard visualizing EV charging stations and adoption rates across mainland France, designed to inform policy and support France’s electric mobility transition. The interactive dashboard is available [here](https://ev-plug-in-france.streamlit.app/) - it might be sleeping, but you can wake it up ! |
 | [ft-transcendence](https://github.com/svvoii/Online-PONG) | Python, Django, Docker, PostgreSQL, Redis, Nginx, WebSockets, HTML, CSS, JavaScript | The project is a web-based multiplayer game, where you can play against your friends or random players. |
 | [ft-irc](https://github.com/svvoii/irc-42) | C, C++, Python, Docker, Redis, Nginx, WebSockets | It's a web-based chat application, where you can create channels, send messages, and interact with other users. | ... |
