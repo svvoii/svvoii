@@ -35,12 +35,14 @@ Data, AI and Machine Learning !</p>
 
 <div align="center">
 
-🌱 I am currently building my personal website [sbocanci.me](https://sbocanci.me/) and actively seeking my first professional opportunity as an  
-**AI Developer**, **Python Developer**, **Machine Learning Engineer**, **AI Consultant**.  
+Looking forward to starting my first professional experience in Tech 🌱   
+I’m especially interested in roles like **AI Developer**, **Machine Learning Engineer**, **Python Developer**, or **Software Testing Engineer**, as they all align with my passion for building intelligent, reliable, and well-crafted software.
 
-I’m currently seeking opportunities for either an alternance (work-study) or an internship (stage) contract. I’m particularly interested in roles that allow me to build on my experience as a software developer while transitioning into the development of intelligent applications and end-to-end AI solutions.
+I’m currently seeking opportunities for either an alternance (work-study) or an internship (stage) contract.
+I want to build on my development experience by focusing more on intelligent applications and end-to-end AI solutions.
 
-I’m eager to contribute to infrastructure design, scalable system architecture, and testing for reliability and performance. I’m open to flexible formats that align with your company’s needs and project goals.
+I’m eager to contribute to areas like infrastructure design, scalable system architecture, and reliable, high-performance testing. I’m also flexible with how I get involved - happy to adapt to whatever format best supports your team and project goals.
+
 
 <!-- 
 I’m ideally looking for a 16-month alternance (work-study) contract starting from September 2025, with a 3-week workweek on company premises and a 1-week study week. Here’s a link to the [calendar with the schedule](https://drive.google.com/file/d/1fG68i80jMIyG9XO6vIJQ5qp2ydH6y2HK/view?usp=sharing).
@@ -70,8 +72,8 @@ Additionally, I’ll obtain these Microsoft certificates: [AZ-900](https://learn
 |--------------------|----------------------|---------------------------------------------|
 | [RAG-cross-LLM-docbot](https://github.com/svvoii/RAG-cross-LLM-docbot) | Python, RAG, LangChain, OpenAI API, LLMs, FAISS | A document chatbot leveraging RAG and LLMs to provide answers from PDF documents. |
 | [Charging stations in France](https://github.com/svvoii/evs-charging-france-dashboard) | Python, Pandas, Streamlit, Folium, Plotly, Docker. | An interactive Streamlit dashboard visualizing EV charging stations and adoption rates across mainland France, designed to inform policy and support France’s electric mobility transition. The interactive dashboard is available [here](https://ev-plug-in-france.streamlit.app/) - it might be sleeping, but you can wake it up ! |
-| [ft-transcendence](https://github.com/svvoii/Online-PONG) | Python, Django, Docker, PostgreSQL, Redis, Nginx, WebSockets, HTML, CSS, JavaScript | The project is a web-based multiplayer game, where you can play against your friends or random players. |
-| [CLI Pong Game via API](https://github.com/svvoii/CLI-API-Pong-Client) | Python, Websockets, REST API, AsyncIO, CLI Application | A command-line interface (CLI) Pong game client that connects to a WebSocket server, allowing users to play Pong against other players in real-time via a REST API. The client supports asynchronous communication, enabling smooth gameplay and real-time updates. |  
+| [ft-transcendence](https://github.com/svvoii/Online-PONG) | Python, Django, Docker, PostgreSQL, Redis, Nginx, WebSockets, HTML, CSS, JavaScript | A web-based multiplayer Pong game supporting 2 to 4 players. Built with Python, Django, and Django Channels (WebSockets) for the backend and JavaScript with REST APIs on the frontend. Features include real-time gameplay, 3rd party user authentication, friends management, live chat. Uses WebSockets, PostgreSQL, Redis, OAuth2, and is fully containerized with Docker. |
+| [CLI Pong Game via API](https://github.com/svvoii/CLI-API-Pong-Client) | Python, Websockets, REST API, AsyncIO, CLI Application | A command-line interface (CLI) Pong game client that connects to a server via REST API and WebSocket, allowing users to play Pong against other players in real-time. The client supports asynchronous communication, enabling smooth gameplay and real-time updates via WebSocket. |  
 | [Inception](https://github.com/svvoii/Inception) | Docker, Docker Compose, Nginx, MySQL, PHP, WordPress | A project that sets up a complete web stack using Docker, including Nginx, MySQL, and WordPress. It demonstrates the use of Docker for containerization and orchestration of web applications. | 
 | [ft-irc](https://github.com/svvoii/irc-42) | C, C++, Python, Docker, Redis, Nginx, WebSockets | It's a web-based chat application, where you can create channels, send messages, and interact with other users. | ... |
 | [Django-PostgreSQL-Docker-setup](https://github.com/svvoii/postgresql_django_docker) | Python, Django, PostgreSQL, Dockerfile, Docker compose, Makefile, Bash | Step by step setup of the Django project with PostgerSQL database with docker. |
