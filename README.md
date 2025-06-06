@@ -36,7 +36,9 @@ Data, AI and Machine Learning !</p>
 <div align="center">
 
 Looking forward to starting my first professional experience in Tech 🌱   
-I’m especially interested in roles like **AI Developer**, **Machine Learning Engineer**, **Python Developer**, or **Software Testing Engineer**, as they all align with my passion for building intelligent, reliable, and well-crafted software.
+I’m especially attracted to roles like  
+**AI Developer**, **Machine Learning Engineer**, **Python Developer**, or **Software Testing Engineer**,  
+as they all align with my passion for building intelligent, reliable, and well-crafted software.
 
 I’m currently seeking opportunities for either an alternance (work-study) or an internship (stage) contract.
 I want to build on my development experience by focusing more on intelligent applications and end-to-end AI solutions.
