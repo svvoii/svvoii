@@ -9,9 +9,9 @@
 <a href="https://sbocanci.me/">
 	<img src="https://img.shields.io/badge/-Website-FFAA00?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
-<a href="https://calendar.app.google/1JyUe8eAYDYRe6W59">
+<!-- <a href="https://calendar.app.google/1JyUe8eAYDYRe6W59">
     <img src="https://img.shields.io/badge/BOOK%20A%20CALL-green?style=for-the-badge&logo=googlemeet" />
-</a>
+</a> -->
 
 </div>
 
@@ -25,25 +25,19 @@
 	<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi++👋;+I+am+Serge;+👨🏻‍💻" />
 </h1>
 
+
 <h3 align="center">
-<p>I am a Software Developer
-passionate about </br> 
-Data, AI and Machine Learning !</p>
+<p>I am a Software Developer passionate about Data, AI, and Machine Learning, with a strong interest in the SAP ecosystem and enterprise software engineering.</p>
 </h3>
 
 </br>
 
 <div align="center">
 
-Looking forward to starting my first professional experience in Tech 🌱   
-I’m especially attracted to roles like  
-**AI Developer**, **Machine Learning Engineer**, **Python Developer**, or **Software Testing Engineer**,  
-as they all align with my passion for building intelligent, reliable, and well-crafted software.
+I'm currently seeking a long-term opportunity within SAP or SAP-centric environments as an **AI Developer**, **Machine Learning Engineer**, **Python Developer**, **Java Backend Developer**, or **Software Testing Engineer**. <br>
+I'm excited to continue working on **SAP BTP**, **SAP Build**, intelligent applications, and end-to-end enterprise solutions where I can bring my passion for building reliable, scalable software.
 
-I’m currently seeking opportunities for either an alternance (work-study) or an internship (stage) contract.
-I want to build on my development experience by focusing more on intelligent applications and end-to-end AI solutions.
-
-I’m eager to contribute to areas like infrastructure design, scalable system architecture, and reliable, high-performance testing. I’m also flexible with how I get involved - happy to adapt to whatever format best supports your team and project goals.
+I love working on clean architecture, solid infrastructure, and reliable testing—building software that's meant to last. I'm eager to grow with a team that values quality and thoughtful engineering.
 
 
 <!-- 
@@ -72,6 +66,8 @@ Additionally, I’ll obtain these Microsoft certificates: [AZ-900](https://learn
 
 | REPO               | SKILLSET             | DETAILS                                     |
 |--------------------|----------------------|---------------------------------------------|
+| [Cypress-E2E-Test - SAP internal link](https://github.wdf.sap.corp/intelligent-rpa/lime-tests-build-e2e) | SAP BTP, SAP Build, Cypress, JavaScript, Jenkins CI/CD, Jira | End-to-end test automation for SAP Build. [SAP Build trial](https://www.sap.com/products/technology-platform/build/trial.html) |
+| [API tests SAP BO BI WebI - SAP internal link](https://github.tools.sap/I767437/BOE-BI-API-Tests) | Java, Rest API, Rest Assured | API tests for SAP BusinessObjects BI Web Intelligence. More about SAP BOE BI [here](https://www.sap.com/products/data-cloud/bi-platform.html). Official documentation [here](https://help.sap.com/docs/SAP_BUSINESSOBJECTS_WEB_INTELLIGENCE) |
 | [RAG-cross-LLM-docbot](https://github.com/svvoii/RAG-cross-LLM-docbot) | Python, RAG, LangChain, OpenAI API, LLMs, FAISS | A document chatbot leveraging RAG and LLMs to provide answers from PDF documents. |
 | [Charging stations in France](https://github.com/svvoii/evs-charging-france-dashboard) | Python, Pandas, Streamlit, Folium, Plotly, Docker. | An interactive Streamlit dashboard visualizing EV charging stations and adoption rates across mainland France, designed to inform policy and support France’s electric mobility transition. The interactive dashboard is available [here](https://ev-plug-in-france.streamlit.app/) - it might be sleeping, but you can wake it up ! |
 | [ft-transcendence](https://github.com/svvoii/Online-PONG) | Python, Django, Docker, PostgreSQL, Redis, Nginx, WebSockets, HTML, CSS, JavaScript | A web-based multiplayer Pong game supporting 2 to 4 players. Built with Python, Django, and Django Channels (WebSockets) for the backend and JavaScript with REST APIs on the frontend. Features include real-time gameplay, 3rd party user authentication, friends management, live chat. Uses WebSockets, PostgreSQL, Redis, OAuth2, and is fully containerized with Docker. |
