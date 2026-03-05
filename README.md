@@ -37,7 +37,7 @@
 I'm currently seeking a long-term opportunity within SAP or SAP-centric environments as an **AI Developer**, **Machine Learning Engineer**, **Python Developer**, **Java Backend Developer**, or **Software Testing Engineer**. <br>
 I'm excited to continue working on **SAP BTP**, **SAP Build**, intelligent applications, and end-to-end enterprise solutions where I can bring my passion for building reliable, scalable software.
 
-I love working on clean architecture, solid infrastructure, and reliable testing—building software that's meant to last. I'm eager to grow with a team that values quality and thoughtful engineering.
+I love working on clean architecture, solid infrastructure, and reliable testing-building software that's meant to last. I'm eager to grow with a team that values quality, thoughtful engineering, clean code and clear documentation.
 
 
 <!-- 
@@ -66,6 +66,7 @@ Additionally, I’ll obtain these Microsoft certificates: [AZ-900](https://learn
 
 | REPO               | SKILLSET             | DETAILS                                     |
 |--------------------|----------------------|---------------------------------------------|
+| [avaj-launcher](https://github.com/svvoii/avaj-launcher) | Java, OOP, Makefile automation | Java aircraft and weather simulator. See project [README](https://github.com/svvoii/avaj-launcher/blob/main/README.md) for more details. |
 | [Cypress-E2E-Test - SAP internal link](https://github.wdf.sap.corp/intelligent-rpa/lime-tests-build-e2e) | SAP BTP, SAP Build, Cypress, JavaScript, Jenkins CI/CD, Jira | End-to-end test automation for SAP Build. [SAP Build trial](https://www.sap.com/products/technology-platform/build/trial.html) |
 | [API tests SAP BO BI WebI - SAP internal link](https://github.tools.sap/I767437/BOE-BI-API-Tests) | Java, Rest API, Rest Assured | API tests for SAP BusinessObjects BI Web Intelligence. More about SAP BOE BI [here](https://www.sap.com/products/data-cloud/bi-platform.html). Official documentation [here](https://help.sap.com/docs/SAP_BUSINESSOBJECTS_WEB_INTELLIGENCE) |
 | [RAG-cross-LLM-docbot](https://github.com/svvoii/RAG-cross-LLM-docbot) | Python, RAG, LangChain, OpenAI API, LLMs, FAISS | A document chatbot leveraging RAG and LLMs to provide answers from PDF documents. |
