@@ -39,25 +39,6 @@ I'm excited to continue working on **SAP BTP**, **SAP Build**, intelligent appli
 
 I love working on clean architecture, solid infrastructure, and reliable testing-building software that's meant to last. I'm eager to grow with a team that values quality, thoughtful engineering, clean code and clear documentation.
 
-
-<!-- 
-I’m ideally looking for a 16-month alternance (work-study) contract starting from September 2025, with a 3-week workweek on company premises and a 1-week study week. Here’s a link to the [calendar with the schedule](https://drive.google.com/file/d/1fG68i80jMIyG9XO6vIJQ5qp2ydH6y2HK/view?usp=sharing).
-
-This opportunity will allow me to capitalize on my experience as a software developer and complete the transition to developing intelligent applications and end-to-end AI solutions.  
-
-I'm studying with SIMPLON and Microsoft AI School, earning the title of `Developer in Artificial Intelligence` [RNCP 37827](https://www.francecompetences.fr/recherche/rncp/37827/). </br>
-Additionally, I’ll obtain these Microsoft certificates: [AZ-900](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification), [AI-900](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/?practice-assessment-type=certification), [AI-102](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/?practice-assessment-type=certification).
-
-### Here’s the stack I master :
-| CATEGORY               | SKILLS                                                             |
-|------------------------|--------------------------------------------------------------------|
-| LANGUAGES              | Python, R, C#, Scala                                    |
-| LIBRARIES / FRAMEWORKS | Numpy, Pandas, Matplotlib, Scikit-Learn, Keras, Fast.ai, PyTorch, TensorFlow, Flask |
-| DATABASE / BIG DATA    | SQL (MySQL, SQL Server), NoSQL, Azure, IoT Edge, Hadoop Ecosystem (HDFS, MapReduce, etc.), Hive, Cassandra, PySpark, Databricks |
-| PLATFORMS              | Azure Cognitive Services, Azure Bot Service, Azure Machine Learning Studio, Azure Machine Learning Service, Azure Virtual Machines |
-
- -->
-
 ---
 
 <br/>
@@ -66,6 +47,8 @@ Additionally, I’ll obtain these Microsoft certificates: [AZ-900](https://learn
 
 | REPO               | SKILLSET             | DETAILS                                     |
 |--------------------|----------------------|---------------------------------------------|
+| [pydantic-use-cases](https://github.com/svvoii/pydantic-use-cases) | Python, Pydantic, PydanticAI, Data Validation | Practical examples and patterns demonstrating Pydantic usage for validation in Agentic, generative AI projects. |
+| [langgraph-multiagent](https://github.com/svvoii/langgraph-multiagent) | Python, LangGraph, Multi-Agent, LLMs | Multi-agent orchestration examples using LangGraph to coordinate LLM-based agents and workflows. |
 | [avaj-launcher](https://github.com/svvoii/avaj-launcher) | Java, OOP, Makefile automation | Java aircraft and weather simulator. See project [README](https://github.com/svvoii/avaj-launcher/blob/main/README.md) for more details. |
 | [Cypress-E2E-Test - SAP internal link](https://github.wdf.sap.corp/intelligent-rpa/lime-tests-build-e2e) | SAP BTP, SAP Build, Cypress, JavaScript, Jenkins CI/CD, Jira | End-to-end test automation for SAP Build. [SAP Build trial](https://www.sap.com/products/technology-platform/build/trial.html) |
 | [API tests SAP BO BI WebI - SAP internal link](https://github.tools.sap/I767437/BOE-BI-API-Tests) | Java, Rest API, Rest Assured | API tests for SAP BusinessObjects BI Web Intelligence. More about SAP BOE BI [here](https://www.sap.com/products/data-cloud/bi-platform.html). Official documentation [here](https://help.sap.com/docs/SAP_BUSINESSOBJECTS_WEB_INTELLIGENCE) |
@@ -158,6 +141,9 @@ Additionally, I’ll obtain these Microsoft certificates: [AZ-900](https://learn
 [My Portfolio](https://sbocanci.me/)  
 
 ---
+
+last updated: 09 March 2026  
+
 
 <!--
 😃 Grinning Face with Big Eyes
